@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://herick.me" resolutions="1x" timestamp="1515511128166">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://herick.me" resolutions="1x" timestamp="1515516124089">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3890545575" ref="index"/>
-    <file name="iefonts_index.css" crc="312051058" ref="index"/>
+    <file name="index.css" crc="355977587" ref="index"/>
+    <file name="iefonts_index.css" crc="4172721412" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -20,5 +20,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="464362285" seo="true" mt="1515511078115" redirect="true"/>
+  <file name="index.html" crc="155853446" seo="true" mt="1515516110330" redirect="true"/>
 </manifest>
